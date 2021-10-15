@@ -7,10 +7,10 @@ Using This web app anybody can login and get cars repair services by world class
 * Car Owers Must Have an Account or Can create Accout usin Email
 
 ### `Technology`
-React
-React-Router
-Bootstrap
-Netlify.
+* React
+* React-Router
+* Bootstrap
+ * Netlify.
 
 ### `npm test`
 
