@@ -2,9 +2,9 @@
 Using This web app anybody can login and get cars repair services by world class engineer using .
 
 ## Feature
-. User can see All Services
-. user able to Select Single Services
-. Car Owers Must Have an Account or Can create Accout usin Email
+# User can see All Services
+# user able to Select Single Services
+# Car Owers Must Have an Account or Can create Accout usin Email
 
 ### `Technology`
 React
